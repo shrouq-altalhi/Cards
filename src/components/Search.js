@@ -19,8 +19,8 @@ function Search({ data }) {
   return (
     <div>
       {/* <div> */}
-        <Input type="text" placeholder="Search here" onChange={handlChange} />
       {/* </div> */}
+      <Input type="text" placeholder="Search here" onChange={handlChange} />
       {searchInput.length != 0 && (
         <div className="dataResult">
           {searchInput.map((value, key) => {

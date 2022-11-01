@@ -13,14 +13,14 @@
   },
   {
     "name": "Git & GitHub",
-    "isNew": true,
+    "isNew": false,
     "disc": "UI/UX تُقدم #أكاديمية_طويق دورة Figma من البداية حتى الاتقان باستخدام",
     "link": "https://pbs.twimg.com/media/FgFI0-CakAI1f_Z?format=jpg&name=medium"
   },
   {
     "name": "DS and Machine Learning",
 
-    "isNew": true,
+    "isNew": false,
     "disc": "UI/UX تُقدم #أكاديمية_طويق دورة Figma من البداية حتى الاتقان باستخدام",
     "link": "https://pbs.twimg.com/media/FgFI0-CakAI1f_Z?format=jpg&name=medium"
   },
@@ -37,27 +37,34 @@
     "link": "https://pbs.twimg.com/media/FgFI0-CakAI1f_Z?format=jpg&name=medium"
   },
   {
-    "name": "دورة تطوير تطبيقات iOS",
+    "name": "هندسة البيانات",
+    "isNew": false,
+    "disc": "UI/UX تُقدم #أكاديمية_طويق دورة Figma من البداية حتى الاتقان باستخدام",
+    "link": ""
+  },
+  {
+    "name": "التصميم والتصنيع الرقمي للمبتدئين",
     "isNew": true,
     "disc": "UI/UX تُقدم #أكاديمية_طويق دورة Figma من البداية حتى الاتقان باستخدام",
     "link": ""
   },
   {
-    "name": "دورة تطوير تطبيقات iOS",
+    "name": "Python",
     "isNew": true,
     "disc": "UI/UX تُقدم #أكاديمية_طويق دورة Figma من البداية حتى الاتقان باستخدام",
     "link": ""
   },
   {
-    "name": "دورة تطوير تطبيقات iOS",
+    "name": "Kotlin",
     "isNew": true,
     "disc": "UI/UX تُقدم #أكاديمية_طويق دورة Figma من البداية حتى الاتقان باستخدام",
     "link": ""
   },
   {
-    "name": "دورة تطوير تطبيقات iOS",
-    "isNew": true,
-    "disc": "UI/UX تُقدم #أكاديمية_طويق دورة Figma من البداية حتى الاتقان باستخدام",
-    "link": ""
+    "name":"دورة برمجة متحكم الاردوينو",
+    "isNew":true,
+    "disc":"دورة برمجة متحكم الاردوينو لمعرفة المهارات الأساسية في صنع الدوائر الإلكترونية والمهارات الأساسية في برمجة Hardware",
+    "imageURL":"https://pbs.twimg.com/media/FgaNfCxWAAIRRSN?format=jpg&name=medium"
+          
   }
 ]

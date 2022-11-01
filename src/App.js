@@ -49,6 +49,46 @@ function App() {
             isNew={true}
             imageURL="https://pbs.twimg.com/media/FfyBLXEXoAA81Au?format=jpg&name=medium"
           />
+
+          <Store
+            name="دورة برمجة متحكم الاردوينو"
+            isNew={true}
+            disc="دورة برمجة متحكم الاردوينو لمعرفة المهارات الأساسية في صنع الدوائر الإلكترونية والمهارات الأساسية في برمجة Hardware"
+            imageURL="https://pbs.twimg.com/media/FgaNfCxWAAIRRSN?format=jpg&name=medium"
+          />
+
+          <Store
+            name="هندسة البيانات"
+            disc="دورة متخصصة تتعلم عبرها المفاهيم الأساسية في هندسة البيانات وبعض التقنيات المستخدمة في ذلك."
+            isNew={false}
+            imageURL="https://pbs.twimg.com/media/Fdwy--kWYAAr_jn?format=jpg&name=4096x4096"
+          />
+
+          <Store
+            name="التصميم والتصنيع الرقمي للمبتدئين"
+            disc="للمهتمين بالرسم الهندسي والتصميم ثلاثي الأبعاد؛"
+            isNew={true}
+            imageURL="https://pbs.twimg.com/media/FdsMcAdXgAAUk7m?format=jpg&name=4096x4096"
+          />
+
+          <Store
+            name="Python"
+            disc="بناء مواقع الويب باستخدام لغة Python"
+            isNew={false}
+            imageURL="https://pbs.twimg.com/media/FdsKOhVWIAM_WAI?format=jpg&name=4096x4096"
+          />
+          <Store
+            name="Kotlin"
+            disc="لتعلم لغة Kotlin المعتمدة من Google في تطوير تطبيقات Android ذات قدرات عالية وبشكل احترافي، انضم لدورةمبادئ في لغة Kotlin وتطوير تطبيقات Android"
+            isNew={true}
+            imageURL="https://pbs.twimg.com/media/FdnC38gWYA0KsWr?format=jpg&name=large"
+          />
+          <Store
+            name="دورة تطوير تطبيقات iOS"
+            disc="لدورة تطوير تطبيقات iOS باستخدام SwiftUI"
+            isNew={true}
+            imageURL="https://pbs.twimg.com/media/FfyBLXEXoAA81Au?format=jpg&name=medium"
+          />
         </Grid>
       </div>
       <Footer />
