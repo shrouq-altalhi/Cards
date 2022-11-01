@@ -22,6 +22,8 @@ import {
   ChevronRightIcon,
 } from "@chakra-ui/icons";
 
+import Search from "./Search"
+import CardsData from "./Data.json"
 export default function WithSubnavigation() {
   const { isOpen, onToggle } = useDisclosure();
 
@@ -66,6 +68,9 @@ export default function WithSubnavigation() {
             <DesktopNav />
           </Flex>
         </Flex>
+        
+        <Search data={CardsData}/>
+
 
         <Stack
           flex={{ base: 1, md: 0 }}
